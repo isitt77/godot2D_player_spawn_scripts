@@ -11,7 +11,7 @@ extends Area2D
 # Player animation direction to face in next scene.
 var _player_next_direction: String
 
-# Resource to store and pass Player data to next scene.
+# Custom Resource to store and pass Player data to next scene.
 @export var player_spawn_res: PlayerSpawnLocationRes
 
 
