@@ -12,7 +12,6 @@ var _initial_player_direction: String = "down"
 # Get Player position from EnterExit script.
 func get_initial_player_position(initial_spawn_position: Vector2):
 	_initial_spawn_position = initial_spawn_position
-	return _initial_spawn_position
 
 # Pass stored Player position into Player script.
 func  set_initial_player_position():
