@@ -2,6 +2,6 @@ Scripts used to change scenes in Godot 2D game using custom resource to get and 
 
 Player is not using a singleton.
 
-YouTube tutorial on how to implemet these scripts:
+YouTube tutorial on how to implement these scripts:
 
 https://www.youtube.com/watch?v=gT4AGSehfJI 
